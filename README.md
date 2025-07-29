@@ -27,8 +27,8 @@ O principal objetivo deste sistema é praticar conceitos fundamentais do framewo
 
 ## 💻 Tecnologias Utilizadas
 
-- **Python 3.10+**
-- **Django 4.x**
+- **Python**
+- **Django**
 - **HTML5** + **Django Templates**
 - **CSS** (básico para estrutura visual)
 - **SQLite** como banco de dados local (para desenvolvimento)

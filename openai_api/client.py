@@ -11,7 +11,6 @@ def get_car_ai_bio(brand, model, year):
     Me mostre uma descrição de venda para o carro {} {} {} em apenas 250 caracteres. Fale coisas específicas sobre este carro.
     '''
 
-    message = message.format(brand, model, year)
     response = client.chat.completions.create(
         messages=[
             {
